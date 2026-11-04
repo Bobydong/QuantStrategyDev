@@ -1,0 +1,7 @@
+asset,source_rows,training_rows,testing_rows,training_end,testing_start,overlap_dates,status,issues
+Asset_A,1746,1396,350,2022-05-16,2022-05-17,0,PASS,
+Asset_B,1746,1396,350,2022-05-16,2022-05-17,0,PASS,
+Asset_C,1746,1396,350,2022-05-16,2022-05-17,0,PASS,
+Asset_D,1746,1396,350,2022-05-16,2022-05-17,0,PASS,
+Asset_E,1746,1396,350,2022-05-16,2022-05-17,0,PASS,
+Asset_F,1746,1396,350,2022-05-16,2022-05-17,0,PASS,

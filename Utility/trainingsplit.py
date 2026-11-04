@@ -1,5 +1,6 @@
 import pandas as pd
 
+# Split the data into training and testing sets for each asset. This is run once. 
 for asset in ["Asset_A", "Asset_B", "Asset_C", "Asset_D", "Asset_E", "Asset_F"]:
     df = pd.read_csv(f"Data/EvaluationData/{asset}.csv", parse_dates=["Date"])
     df = df.sort_values("Date").reset_index(drop=True)
